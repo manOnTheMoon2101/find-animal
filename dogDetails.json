@@ -1,0 +1,337 @@
+[
+  {
+    "name": "LORD LOCH",
+    "details": "My Name is LORD LOCH\nI am a 4 month old\nMixed Breed Male",
+    "type": "Mixed Breed Male",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/09/Lord-Loch-1.jpg",
+    "age": 4,
+    "ageDate": "month"
+  },
+  {
+    "name": "Bella",
+    "details": "My name is Bella\nI am a 2 year old\nGSD x Female",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/11/Bella-GSD-x-female-2-year-old.jpg",
+    "age": 2,
+    "ageDate": "year"
+  },
+  {
+    "name": "Royal",
+    "details": "My name is Royal\nI am a 6 month old\nNSB female",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/11/Royal.jpg",
+    "age": 6,
+    "ageDate": "month"
+  },
+  {
+    "name": "MARLENE",
+    "details": "My name is Marlene\nI am a 1 year old\nNSB female",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/11/Marlene-1-year-old-NSB.jpg",
+    "age": 1,
+    "ageDate": "year"
+  },
+  {
+    "name": "Diesel",
+    "details": "My name is Diesel\nI am a 14 week old\nCross breed Male",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/10/Diesel-14-week-old-NSB.jpg",
+    "age": 14,
+    "ageDate": "week"
+  },
+  {
+    "name": "Crackle",
+    "details": "My name is Crackle\nI am an 8 week old\nNSB girlie",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/12/Crackle-8-week-old-NSB-female.jpg",
+    "age": 8,
+    "ageDate": "week"
+  },
+  {
+    "name": "BUDDY",
+    "details": "My name is Buddy\nI am a 1 year old\nNSB male",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/11/Buddy-NSB-male.jpg",
+    "age": 1,
+    "ageDate": "year"
+  },
+  {
+    "name": "CHLOE",
+    "details": "My name is CHLOE\nI am a 2 year old\nGSD Cross Female",
+    "type": "GSD Cross Female",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/08/Chloe-1.jpg",
+    "age": 2,
+    "ageDate": "year"
+  },
+  {
+    "name": "Willow",
+    "details": "My name is Willow\nI am a 2 year old\nJack Russel girlie",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/12/Willow-2-year-old-JR.jpg",
+    "age": 2,
+    "ageDate": "year"
+  },
+  {
+    "name": "Coffee",
+    "details": "My name is Coffee\nI am 4 year old\nTerrier x Male",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/12/Coffee-terrier-4-yr-old-x-male.jpg",
+    "age": 4,
+    "ageDate": "year"
+  },
+  {
+    "name": "Snap",
+    "details": "My name is Snap\nI am an 8 week old\nNSB girlie",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/12/Snap-8-week-old-NSB-female.jpg",
+    "age": 8,
+    "ageDate": "week"
+  },
+  {
+    "name": "Buddy",
+    "details": "My name is Buddy\nI am a 1 year old\nNSB male",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/11/Buddy-NSB-male.jpg",
+    "age": 1,
+    "ageDate": "year"
+  },
+  {
+    "name": "Murphy",
+    "details": "My name is Murphy\nI am a 7 month old\nJack Russel Male",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/12/Murphy-7-month-old-JR-male.jpg",
+    "age": 7,
+    "ageDate": "month"
+  },
+  {
+    "name": "Vellies",
+    "details": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/11/Vellies-1-yr-old-pittie-cross-male.jpg"
+  },
+  {
+    "name": "ARYA",
+    "details": "My Name is ARYA\nI am a 5 year old\nMixed Breed Female",
+    "type": "Mixed Breed Female",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/08/WhatsApp-Image-2024-07-18-at-07.43.25_63f86e41.jpg",
+    "age": 5,
+    "ageDate": "year"
+  },
+  {
+    "name": "MAY",
+    "details": "My name is MAY\nI am a 10 month old\nMixed Breed Female",
+    "type": "Mixed Breed Female",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/08/May.jpg",
+    "age": 10,
+    "ageDate": "month"
+  },
+  {
+    "name": "Bree",
+    "details": "My name is Bree\nI am a 4 month old\nNSB female puppy",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/11/Bree-4-month-old-NSB-female.jpg",
+    "age": 4,
+    "ageDate": "month"
+  },
+  {
+    "name": "PETER",
+    "details": "My name is PETER\nI am a 1 year old\nMixed Breed Male",
+    "type": "Mixed Breed Male",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/08/Peter.jpg",
+    "age": 1,
+    "ageDate": "year"
+  },
+  {
+    "name": "SCHALK",
+    "details": "My name is SCHALK\nI am a 3 month old\nMixed Breed Male",
+    "type": "Mixed Breed Male",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/08/Schalk.jpg",
+    "age": 3,
+    "ageDate": "month"
+  },
+  {
+    "name": "Pop",
+    "details": "My name is POP\nI am an 8 week old\nNSB girlie",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/12/POP-8-week-old-female-cross-breed.jpg",
+    "age": 8,
+    "ageDate": "week"
+  },
+  {
+    "name": "TRICE",
+    "details": "My name is TRICE\nI am a 2 year old\nMixed Breed Female",
+    "type": "Mixed Breed Female",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/08/Trice.jpg",
+    "age": 2,
+    "ageDate": "year"
+  },
+  {
+    "name": "Toothless",
+    "details": "",
+    "type": "DSH male kitten",
+    "age": 9,
+    "ageDate": "week",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/12/Toothless-9-wk-old-DSH-male.jpg"
+  },
+  {
+    "name": "Diana",
+    "details": "",
+    "type": "DSH girlie",
+    "age": 9,
+    "ageDate": "week",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/11/Diana-9-week-old-DSH-girlie.jpg"
+  },
+  {
+    "name": "Butterscotch",
+    "details": "",
+    "type": "Calico DSH Female",
+    "age": 1,
+    "ageDate": "year",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/10/Butterscotch-12-mnth-female-calico.jpg"
+  },
+  {
+    "name": "PEPPER",
+    "details": "",
+    "type": "DSH female",
+    "age": 10,
+    "ageDate": "month",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/11/Pepper-10-month-old-DSH-female.jpg"
+  },
+  {
+    "name": "TINKERBELL",
+    "details": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/08/Tinkerbell.jpg"
+  },
+  {
+    "name": "Latte",
+    "details": "",
+    "type": "Siamese x girlie",
+    "age": 11,
+    "ageDate": "week",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/12/Latte-11-wk-old-Siamese-x-female.jpg"
+  },
+  {
+    "name": "Sarah",
+    "details": "",
+    "type": "DSH girlie",
+    "age": 7,
+    "ageDate": "week",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/11/Sarah-.jpg"
+  },
+  {
+    "name": "Poppy",
+    "details": "",
+    "type": "DMH girlie",
+    "age": 9,
+    "ageDate": "week",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/11/Poppy-9-week-old-DMH-girlie.jpg"
+  },
+  {
+    "name": "Jess",
+    "details": "",
+    "type": "DSH girlie",
+    "age": 8,
+    "ageDate": "week",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/12/Jess-8-wk-old-DSH-female.jpg"
+  },
+  {
+    "name": "Blaze",
+    "details": "",
+    "type": "DSH male",
+    "age": 2,
+    "ageDate": "year",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/11/Blaze-2-yr-old-male.jpg"
+  },
+  {
+    "name": "Tilly",
+    "details": "",
+    "type": "DSH girly",
+    "age": 9,
+    "ageDate": "week",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/11/Tilly-9-week-DSH-girlie.jpg"
+  },
+  {
+    "name": "Maui",
+    "details": "",
+    "type": "DMH male",
+    "age": 9,
+    "ageDate": "week",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/11/Maui-DMH-9-week-old-male.jpg"
+  },
+  {
+    "name": "Diane",
+    "details": "",
+    "type": "Medium haired diluted Calico girlie",
+    "age": 2,
+    "ageDate": "year",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/12/Diane-2-year-old-Medium-haired-diluted-calico.jpg"
+  },
+  {
+    "name": "Pamela",
+    "details": "",
+    "type": "DSH female",
+    "age": 1,
+    "ageDate": "year",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/11/Pamela-large-1-yr-old-DSH-girlie.jpg"
+  },
+  {
+    "name": "Jonel",
+    "details": "",
+    "type": "DSH girlie",
+    "age": 1,
+    "ageDate": "year",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/12/Jonel-12-mnth-ol-DSH-female.jpg"
+  },
+  {
+    "name": "Beerus",
+    "details": "",
+    "type": "DSH male kitten",
+    "age": 12,
+    "ageDate": "week",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/12/Beerus-12-wk-old-male-kitten.jpg"
+  },
+  {
+    "name": "Cesar",
+    "details": "",
+    "type": "DSH male",
+    "age": 9,
+    "ageDate": "week",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/11/Cesar-9-week-old-DSH-male.jpg"
+  },
+  {
+    "name": "Coda",
+    "details": "",
+    "type": "DMH male kitten",
+    "age": 9,
+    "ageDate": "week",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/11/Coda-9-week-old-DMH-male.jpg"
+  },
+  {
+    "name": "JASPER",
+    "details": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/08/Jasper.jpg"
+  },
+  {
+    "name": "Peaches",
+    "details": "",
+    "type": "DSH female",
+    "age": 2,
+    "ageDate": "year",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/11/Peaches-2-yr-old-female.jpg"
+  },
+  {
+    "name": "Astrid",
+    "details": "",
+    "type": "DSH girlie",
+    "age": 9,
+    "ageDate": "week",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/12/Astrid-9-wk-old-DSH-female.jpg"
+  },
+  {
+    "name": "DANI",
+    "details": "",
+    "type": "DHS female kitten",
+    "age": 8,
+    "ageDate": "week",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/11/Dani-8-week-old-kitten-female.jpg"
+  }
+]

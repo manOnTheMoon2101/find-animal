@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+  height: 7px;
+  width: 6px;
+  border: 1px solid #d5d5d5;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 20px;
+  background: #eeeeee;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background: #54473F;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+@layer base {
+  :root {
+    --background: 74 38% 89%;
+    --foreground: 0 0% 3.9%;
+    --primary: 69 34% 73%;
+    --secondary: 21 18% 52%;
+    --accent: 23 14% 29%;
+    --radius: 0.5rem;
+  }
+  .dark {
+    --background: 23 14% 29%;
+    --foreground: 0 0% 98%;
+    --primary: 21 18% 52%;
+    --secondary:69 34% 73%;
+    --accent:74 38% 89%;
+    --radius: 0.5rem;
+  }
+}
+
+@layer base {
+  body {
+    @apply bg-background text-foreground;
+  }
+}

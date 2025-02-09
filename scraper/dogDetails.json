@@ -1,0 +1,268 @@
+[
+  {
+    "name": "Cooper",
+    "details": "My name is\nCooper\nI am an 18 month old\nGSD x Male",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/COOPER.jpg",
+    "age": 18,
+    "ageDate": "month"
+  },
+  {
+    "name": "Bonnie",
+    "details": "My name is\nBonnie\nI am a 1 yyear old\nMixed Breed Female",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/BONNIE.jpg",
+    "age": 1
+  },
+  {
+    "name": "Vellies",
+    "details": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/11/VELLIES.jpg"
+  },
+  {
+    "name": "Sting",
+    "details": "My name is\nSting\nI am an 18 month old\nPitbull x Male",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/STING-1.jpg",
+    "age": 18,
+    "ageDate": "month"
+  },
+  {
+    "name": "Buksie",
+    "details": "My name is\nBuksie\nI am 2 year old\nMixed Breed Male",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/BUKSIE.jpg",
+    "age": 2,
+    "ageDate": "year"
+  },
+  {
+    "name": "Dolly",
+    "details": "My name is\nDolly\nI am an 18 month old\nMixed breed Female",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/DOLLY.jpg",
+    "age": 18,
+    "ageDate": "month"
+  },
+  {
+    "name": "Dottie",
+    "details": "My name is\nDottie\nI am a 2 year old\nJack Russel Male",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/DOTTIE.jpg",
+    "age": 2,
+    "ageDate": "year"
+  },
+  {
+    "name": "Turbo",
+    "details": "My name is\nTurbo\nI am a 7 month old\nFox Terrier x male",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/TURBO-1.jpg",
+    "age": 7,
+    "ageDate": "month"
+  },
+  {
+    "name": "Kai",
+    "details": "My name is\nKai\nI am an 8 month old\nHusky girlie",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/KAI.jpg",
+    "age": 8,
+    "ageDate": "month"
+  },
+  {
+    "name": "PETER",
+    "details": "My name is PETER\nI am an 18 month old\nMixed Breed Male",
+    "type": "Mixed Breed Male",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/08/PETER-1.jpg",
+    "age": 18,
+    "ageDate": "month"
+  },
+  {
+    "name": "Deon",
+    "details": "My name is\nDeon\nI am a 9 week old\nMixed Breed little Boy",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/DEON.jpg",
+    "age": 9,
+    "ageDate": "week"
+  },
+  {
+    "name": "Bella",
+    "details": "My name is\nBella\nI am a 7 month old\nFox terrier x female",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/BELLA.jpg",
+    "age": 7,
+    "ageDate": "month"
+  },
+  {
+    "name": "Athena",
+    "details": "My name is\nAthena\nI am a 2 year old\nGSD x Female",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/ATHENA.jpg",
+    "age": 2,
+    "ageDate": "year"
+  },
+  {
+    "name": "Dawie",
+    "details": "My name is\nDawie\nI am a 9 week old\nMixed Breed little boy",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/DAWIE.jpg",
+    "age": 9,
+    "ageDate": "week"
+  },
+  {
+    "name": "Lucie",
+    "details": "My name is\nLucie\nI am an 18 month old\nFox terrier x female",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/LUCIE.jpg",
+    "age": 18,
+    "ageDate": "month"
+  },
+  {
+    "name": "TRICE",
+    "details": "My name is TRICE\nI am a 2 year old\nMixed Breed Female",
+    "type": "Mixed Breed Female",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/08/THRICE.jpg",
+    "age": 2,
+    "ageDate": "year"
+  },
+  {
+    "name": "Bailey",
+    "details": "My name is\nBailey\nI am a 3 month old\nMixed Breed Male",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/BAILEY.jpg",
+    "age": 3,
+    "ageDate": "month"
+  },
+  {
+    "name": "May",
+    "details": "My name is\nMay\nI am a one year old girlie",
+    "type": "girlie",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/MAY.jpg"
+  },
+  {
+    "name": "Polo",
+    "details": "My name is\nPolo\nI am an 18 month old\nLab x Pittie male",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/POLO.jpg",
+    "age": 18,
+    "ageDate": "month"
+  },
+  {
+    "name": "Marty",
+    "details": "My name is\nMarty\nI am a 12 month old\nFox Terrier x male",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/MARTY.jpg",
+    "age": 12,
+    "ageDate": "month"
+  },
+  {
+    "name": "Emiel",
+    "details": "My name is\nEmiel\nI am a 6 month old\nsmall Mixed Breed Male",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/EMIEL.jpg",
+    "age": 6,
+    "ageDate": "month"
+  },
+  {
+    "name": "Mienkie",
+    "details": "My name is\nMienkie\nI am a 6 year old\nSmall mixed breed lady",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/Mienkie.jpg",
+    "age": 6,
+    "ageDate": "year"
+  },
+  {
+    "name": "Hannah",
+    "details": "My name is\nHannah\nI am a 1 year old\nJack Russel x female",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/HANNAH.jpg",
+    "age": 1,
+    "ageDate": "year"
+  },
+  {
+    "name": "Derick",
+    "details": "My name is\nDerick\nI am a 9 week old\nMixed breed little boy",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/DERICK.jpg",
+    "age": 9,
+    "ageDate": "week"
+  },
+  {
+    "name": "Daisy",
+    "details": "My name is\nDaisy\nI am an 18 month old\nMixed Breed Female",
+    "type": "",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/DAISY.jpg",
+    "age": 18,
+    "ageDate": "month"
+  },
+  {
+    "name": "Jonel",
+    "details": "",
+    "type": "DSH girlie",
+    "age": 1,
+    "ageDate": "year",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/12/JONEL.jpg"
+  },
+  {
+    "name": "Lemon",
+    "details": "",
+    "type": "I am a 7 month old",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/LEMON.jpg"
+  },
+  {
+    "name": "Tinkerbell",
+    "details": "",
+    "type": "I am a 1 year old girlie",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/TINKERBELL.jpg"
+  },
+  {
+    "name": "Champagne",
+    "details": "",
+    "type": "I am a 2 month old",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/CHAMPAGNE.jpg"
+  },
+  {
+    "name": "PEPPER",
+    "details": "",
+    "type": "DSH female",
+    "age": 10,
+    "ageDate": "month",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/11/Pepper-10-month-old-DSH-female.jpg"
+  },
+  {
+    "name": "Blaze",
+    "details": "",
+    "type": "DSH male",
+    "age": 2,
+    "ageDate": "year",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2024/11/Blaze-2-yr-old-male.jpg"
+  },
+  {
+    "name": "Molly",
+    "details": "",
+    "type": "I am a 7 week old",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/MOLLY.jpg"
+  },
+  {
+    "name": "Joanne",
+    "details": "",
+    "type": "I am a 4 month old",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/JOANNE.jpg"
+  },
+  {
+    "name": "Albert",
+    "details": "",
+    "type": "I am a 6 month old",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/ALBERT.jpg"
+  },
+  {
+    "name": "Lizzie",
+    "details": "",
+    "type": "I am an 1 year old",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/LIZZIE.jpg"
+  },
+  {
+    "name": "Minky",
+    "details": "",
+    "type": "I am a 7 week old",
+    "image": "https://wellingtonspca.co.za/wp-content/uploads/2025/01/MINKY.jpg"
+  }
+]
