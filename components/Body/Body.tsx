@@ -57,7 +57,7 @@ const Body = () => {
       <div className="relative w-full h-screen">
         <Image
           src={dogs}
-          alt="Dogs"
+          alt="Dog with sunglasses"
           layout="fill"
           objectFit="cover"
           className="absolute top-0 left-0 z-0 rounded"
