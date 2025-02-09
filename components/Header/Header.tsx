@@ -19,7 +19,7 @@ function Header() {
         </span>
         nimal
       </h1>
-      <Menu />
+      {/* <Menu /> */}
     </div>
   );
 }
