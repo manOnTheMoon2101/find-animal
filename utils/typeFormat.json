@@ -37,6 +37,10 @@
     "type": "GSD x Female"
   },
   {
+    "name": "GSD x Male",
+    "type": "GSD x Male"
+  },
+  {
     "name": "Cross Breed Male",
     "type": "Cross breed Male"
   },
@@ -44,7 +48,14 @@
     "name": "Terrier x Male",
     "type": "Terrier x Male"
   },
-
+  {
+    "name": "Husky Girlie",
+    "type": "Husky girlie"
+  },
+  {
+    "name": "Girlie",
+    "type": "girlie"
+  },
   {
     "name": "Calico DSH Female",
     "type": "Calico DSH Female"
@@ -71,6 +82,18 @@
     "type": "DSH Female"
   },
   {
+    "name": "Jack Russel Male",
+    "type": "Jack Russel Male"
+  },
+  {
+    "name": "Jack Russel Female",
+    "type": "Jack Russel x female"
+  },
+  {
+    "name": "Fox Terrier Male",
+    "type": "Fox Terrier x male"
+  },
+  {
     "name": "DSH Male",
     "type": "DSH Male"
   },
@@ -88,11 +111,11 @@
     "type": "DSH female kitten"
   },
   {
-    "name": "DSH girlie",
+    "name": "DSH Girlie",
     "type": "DSH girlie"
   },
   {
-    "name": "DSH girly",
+    "name": "DSH Girlie",
     "type": "DSH girly"
   },
   {
@@ -106,5 +129,13 @@
   {
     "name": "NSB female puppy",
     "type": "NSB female puppy"
+  },
+  {
+    "name": "Pitbull Male",
+    "type": "Pitbull x Male"
+  },
+  {
+    "name": "Calico Girlie",
+    "type": "Calico girlie"
   }
 ]
