@@ -1,5 +1,7 @@
 import * as React from "react";
-import types from "@/utils/typeFormat.json"; // Ensure the JSON is properly imported
+import types from "@/utils/typeFormat.json";
+import { FaCat } from "react-icons/fa";
+import { FaDog } from "react-icons/fa";
 import Image from "next/image";
 import {
   Card,
@@ -24,7 +26,12 @@ export function MainCard(props: any) {
     <Card className="w-[350px] bg-background drop-shadow-xl">
       <CardHeader>
         <CardTitle className="flex flex-row justify-between items-center">
-          <span>{props.name}</span>
+          <div className="flex flex-row">
+            <span className="mr-2 text-accent">
+              {props.animalType == "Dog" ? <FaDog /> : <FaCat />}
+            </span>
+            <span>{props.name}</span>
+          </div>
           <Badge className="bg-primary">{format}</Badge>
         </CardTitle>
         <CardDescription>

@@ -1,7 +1,7 @@
 "use client";
 import React, { useEffect, useState } from "react";
 import { MainCard } from "./card/card";
-import dogs from "@/app/assets/images/dogs3.jpg";
+import dogs from "@/app/assets/images/cool.jpg";
 import {
   Select,
   SelectContent,
@@ -15,6 +15,7 @@ import { Button } from "../ui/button";
 import { Annie_Use_Your_Telescope } from "next/font/google";
 import { AiOutlineLoading } from "react-icons/ai";
 import RandomTip from "./tips/Generator";
+import { IoFilter } from "react-icons/io5";
 import { Badge } from "../ui/badge";
 const annie = Annie_Use_Your_Telescope({
   weight: "400",
@@ -56,7 +57,7 @@ const Body = () => {
       <div className="relative w-full h-screen">
         <Image
           src={dogs}
-          alt="Dogs"
+          alt="Dog with sunglasses"
           layout="fill"
           objectFit="cover"
           className="absolute top-0 left-0 z-0 rounded"
@@ -82,16 +83,26 @@ const Body = () => {
           </h2>
         </div>
 
-        <div className="flex flex-col items-center justify-center">
-          <span className="text-center font-bold">Filter</span>
-          <Select onValueChange={handleSelectChange} value={selectedType}>
-            <SelectTrigger className="w-[180px] bg-primary text-white">
-              <SelectValue placeholder="Type" />
+        <div className="flex flex-row items-center justify-center">
+          <span className="text-center font-bold flex flex-row items-center mr-2">
+            {" "}
+            <IoFilter className="mr-2" />
+          </span>
+          <Select onValueChange={handleSelectChange}>
+            <SelectTrigger className="w-[180px] bg-accent text-white">
+              <SelectValue
+                placeholder={selectedType ? selectedType : "Choose a Type"}
+                className="text-white"
+              />
             </SelectTrigger>
-            <SelectContent className="bg-background">
+            <SelectContent className="bg-accent text-white">
               <SelectGroup>
-                <SelectItem value="Dog" className="cursor-pointer">Dogs</SelectItem>
-                <SelectItem value="Cat" className="cursor-pointer">Cats</SelectItem>
+                <SelectItem value="Dog" className="cursor-pointer">
+                  Dogs
+                </SelectItem>
+                <SelectItem value="Cat" className="cursor-pointer">
+                  Cats
+                </SelectItem>
               </SelectGroup>
             </SelectContent>
           </Select>
@@ -122,6 +133,7 @@ const Body = () => {
                 type={x.type}
                 details={x.details}
                 age={x.age}
+                animalType={x.animalType}
                 ageDate={x.ageDate}
                 date={x.createdAt}
               />
