@@ -1,7 +1,7 @@
 "use client";
 import React, { useEffect, useState } from "react";
 import { MainCard } from "./card/card";
-import dogs from "@/app/assets/images/dogs3.jpg";
+import dogs from "@/app/assets/images/cool.jpg";
 import {
   Select,
   SelectContent,
@@ -87,11 +87,13 @@ const Body = () => {
           <span className="text-center font-bold flex flex-row items-center mr-2">
             {" "}
             <IoFilter className="mr-2" />
-            Filter
           </span>
-          <Select onValueChange={handleSelectChange} >
+          <Select onValueChange={handleSelectChange}>
             <SelectTrigger className="w-[180px] bg-accent text-white">
-              <SelectValue placeholder={selectedType ? selectedType :'Choose a Type'} className="text-white"/>
+              <SelectValue
+                placeholder={selectedType ? selectedType : "Choose a Type"}
+                className="text-white"
+              />
             </SelectTrigger>
             <SelectContent className="bg-accent text-white">
               <SelectGroup>
