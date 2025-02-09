@@ -48,8 +48,8 @@ export function MainCard(props: any) {
           style={{ width: "100%", height: "auto", borderRadius: "20px" }}
         />
       </CardContent>
-      <CardFooter className="flex justify-end items-baseline">
-        {/* <Badge className="bg-white"> {formatDate(props.date)}</Badge> */}
+      <CardFooter className="flex justify-between items-baseline">
+        <Badge className="bg-white"> {formatDate(props.date)}</Badge>
         <MainDialog data={props} />
       </CardFooter>
     </Card>

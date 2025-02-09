@@ -3,7 +3,7 @@ function formatDate(dateStr) {
   const dayNumber = dateObj.getDate();
   const monthName = dateObj.toLocaleString("default", { month: "long" });
   const yearNumber = dateObj.getFullYear();
-  return `${dayNumber} ${monthName} ${yearNumber}`;
+  return `${monthName} ${yearNumber}`;
 }
 
 export default formatDate;
