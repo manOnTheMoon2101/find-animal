@@ -83,17 +83,17 @@ const Body = () => {
           </h2>
         </div>
 
-        <div className="flex flex-col items-center justify-center">
-          <span className="text-center font-bold flex flex-row items-center">
+        <div className="flex flex-row items-center justify-center">
+          <span className="text-center font-bold flex flex-row items-center mr-2">
             {" "}
             <IoFilter className="mr-2" />
             Filter
           </span>
-          <Select onValueChange={handleSelectChange} value={selectedType}>
-            <SelectTrigger className="w-[180px] bg-primary text-white">
-              <SelectValue placeholder="Type" />
+          <Select onValueChange={handleSelectChange} >
+            <SelectTrigger className="w-[180px] bg-accent text-white">
+              <SelectValue placeholder={selectedType ? selectedType :'Choose a Type'} className="text-white"/>
             </SelectTrigger>
-            <SelectContent className="bg-background">
+            <SelectContent className="bg-accent text-white">
               <SelectGroup>
                 <SelectItem value="Dog" className="cursor-pointer">
                   Dogs
