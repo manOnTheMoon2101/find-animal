@@ -15,6 +15,7 @@ import { Button } from "../ui/button";
 import { Annie_Use_Your_Telescope } from "next/font/google";
 import { AiOutlineLoading } from "react-icons/ai";
 import RandomTip from "./tips/Generator";
+import { IoFilter } from "react-icons/io5";
 import { Badge } from "../ui/badge";
 const annie = Annie_Use_Your_Telescope({
   weight: "400",
@@ -83,15 +84,23 @@ const Body = () => {
         </div>
 
         <div className="flex flex-col items-center justify-center">
-          <span className="text-center font-bold">Filter</span>
+          <span className="text-center font-bold flex flex-row items-center">
+            {" "}
+            <IoFilter className="mr-2" />
+            Filter
+          </span>
           <Select onValueChange={handleSelectChange} value={selectedType}>
             <SelectTrigger className="w-[180px] bg-primary text-white">
               <SelectValue placeholder="Type" />
             </SelectTrigger>
             <SelectContent className="bg-background">
               <SelectGroup>
-                <SelectItem value="Dog" className="cursor-pointer">Dogs</SelectItem>
-                <SelectItem value="Cat" className="cursor-pointer">Cats</SelectItem>
+                <SelectItem value="Dog" className="cursor-pointer">
+                  Dogs
+                </SelectItem>
+                <SelectItem value="Cat" className="cursor-pointer">
+                  Cats
+                </SelectItem>
               </SelectGroup>
             </SelectContent>
           </Select>
@@ -122,6 +131,7 @@ const Body = () => {
                 type={x.type}
                 details={x.details}
                 age={x.age}
+                animalType={x.animalType}
                 ageDate={x.ageDate}
                 date={x.createdAt}
               />
