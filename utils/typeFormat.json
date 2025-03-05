@@ -9,6 +9,18 @@
     "type": "NSB male"
   },
   {
+    "name": "NSB Male",
+    "type": "NSB Male"
+  },
+  {
+    "name": "Fox Terrier Female",
+    "type": "Fox terrier x female"
+  },
+  {
+    "name": "NSB Male",
+    "type": "NSB little boy"
+  },
+  {
     "name": "NSB female",
     "type": "NSB female"
   },
@@ -49,8 +61,48 @@
     "type": "Terrier x Male"
   },
   {
+    "name": "Fox Terrier X Female",
+    "type": "Fox Terrier x Female"
+  },
+  {
+    "name": "Wire Haired Male",
+    "type": "Wirehaired x male"
+  },
+  {
+    "name": "GSDxHusky Male",
+    "type": "GSDxHusky Male"
+  },
+  {
+    "name": "Large Male",
+    "type": "Large blue-grey Male"
+  },
+  {
     "name": "Husky Girlie",
     "type": "Husky girlie"
+  },
+  {
+    "name": "Small Breed Girlie",
+    "type": "Small breed girlie"
+  },
+  {
+    "name": "Husky Girlie",
+    "type": "Husky Female"
+  },
+  {
+    "name": "DSH Male",
+    "type": "DSH grey&white Male"
+  },
+  {
+    "name":"Pug x Male",
+    "type":"Pug x Male"
+  },
+  {
+    "name": "NSB Girlie",
+    "type":"NSB girlie"
+  },
+  {
+    "name":"DSH Little Boy",
+    "type":"DSH little boy"
   },
   {
     "name": "Girlie",
